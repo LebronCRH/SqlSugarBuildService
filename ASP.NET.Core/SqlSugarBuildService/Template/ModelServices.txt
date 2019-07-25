@@ -1,0 +1,22 @@
+﻿using @Model.BaseServicesNamespace;
+using @Model.ModelsNamespace;
+using @Model.IRepositoryNamespace;
+using @Model.IServicesNamespace;
+
+namespace @Model.ClassNamespace
+{	
+	/// <summary>
+	/// ModuleServices
+	/// </summary>	
+	public class @(Model.Name)Services : BaseServices<@Model.Name>, I@(Model.Name)Services
+    {
+	
+        I@(Model.Name)Repository _dal;
+        public @(Model.Name)(I@(Model.Name)Repository dal)
+        {
+            this._dal = dal;
+            base.BaseDal = dal;
+        }
+       
+    }
+}

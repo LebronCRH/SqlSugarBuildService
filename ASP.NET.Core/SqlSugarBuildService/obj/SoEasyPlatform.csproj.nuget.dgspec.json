@@ -1,0 +1,70 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\ASP.NET文件夹\\ORM框架\\SQLSugar\\自动搭建SqlSugar框架的三层数据库模型\\ASP.NET.Core\\SqlSugarBuildService\\SqlSugarBuildService\\SoEasyPlatform.csproj": {}
+  },
+  "projects": {
+    "F:\\ASP.NET文件夹\\ORM框架\\SQLSugar\\自动搭建SqlSugar框架的三层数据库模型\\ASP.NET.Core\\SqlSugarBuildService\\SqlSugarBuildService\\SoEasyPlatform.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\ASP.NET文件夹\\ORM框架\\SQLSugar\\自动搭建SqlSugar框架的三层数据库模型\\ASP.NET.Core\\SqlSugarBuildService\\SqlSugarBuildService\\SoEasyPlatform.csproj",
+        "projectName": "SoEasyPlatform",
+        "projectPath": "F:\\ASP.NET文件夹\\ORM框架\\SQLSugar\\自动搭建SqlSugar框架的三层数据库模型\\ASP.NET.Core\\SqlSugarBuildService\\SqlSugarBuildService\\SoEasyPlatform.csproj",
+        "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
+        "outputPath": "F:\\ASP.NET文件夹\\ORM框架\\SQLSugar\\自动搭建SqlSugar框架的三层数据库模型\\ASP.NET.Core\\SqlSugarBuildService\\SqlSugarBuildService\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "E:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.0": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.0, )",
+              "autoReferenced": true
+            },
+            "RazorEngine.NetCore": {
+              "target": "Package",
+              "version": "[2.2.2, )"
+            },
+            "sqlSugarCore": {
+              "target": "Package",
+              "version": "[4.9.9.3, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

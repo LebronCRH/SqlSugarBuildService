@@ -1,0 +1,11 @@
+F:\ASP.NET文件夹\ORM框架\SQLSugar\自动搭建SqlSugar框架的三层数据库模型\ASP.NET.Core\SqlSugarBuildService\SqlSugarBuildService\bin\Debug\netcoreapp2.0\SqlSugarBuildService.deps.json
+F:\ASP.NET文件夹\ORM框架\SQLSugar\自动搭建SqlSugar框架的三层数据库模型\ASP.NET.Core\SqlSugarBuildService\SqlSugarBuildService\bin\Debug\netcoreapp2.0\SqlSugarBuildService.runtimeconfig.json
+F:\ASP.NET文件夹\ORM框架\SQLSugar\自动搭建SqlSugar框架的三层数据库模型\ASP.NET.Core\SqlSugarBuildService\SqlSugarBuildService\bin\Debug\netcoreapp2.0\SqlSugarBuildService.runtimeconfig.dev.json
+F:\ASP.NET文件夹\ORM框架\SQLSugar\自动搭建SqlSugar框架的三层数据库模型\ASP.NET.Core\SqlSugarBuildService\SqlSugarBuildService\bin\Debug\netcoreapp2.0\SqlSugarBuildService.dll
+F:\ASP.NET文件夹\ORM框架\SQLSugar\自动搭建SqlSugar框架的三层数据库模型\ASP.NET.Core\SqlSugarBuildService\SqlSugarBuildService\bin\Debug\netcoreapp2.0\SqlSugarBuildService.pdb
+F:\ASP.NET文件夹\ORM框架\SQLSugar\自动搭建SqlSugar框架的三层数据库模型\ASP.NET.Core\SqlSugarBuildService\SqlSugarBuildService\obj\Debug\netcoreapp2.0\SqlSugarBuildService.csproj.CoreCompileInputs.cache
+F:\ASP.NET文件夹\ORM框架\SQLSugar\自动搭建SqlSugar框架的三层数据库模型\ASP.NET.Core\SqlSugarBuildService\SqlSugarBuildService\obj\Debug\netcoreapp2.0\SqlSugarBuildService.AssemblyInfoInputs.cache
+F:\ASP.NET文件夹\ORM框架\SQLSugar\自动搭建SqlSugar框架的三层数据库模型\ASP.NET.Core\SqlSugarBuildService\SqlSugarBuildService\obj\Debug\netcoreapp2.0\SqlSugarBuildService.AssemblyInfo.cs
+F:\ASP.NET文件夹\ORM框架\SQLSugar\自动搭建SqlSugar框架的三层数据库模型\ASP.NET.Core\SqlSugarBuildService\SqlSugarBuildService\obj\Debug\netcoreapp2.0\SqlSugarBuildService.dll
+F:\ASP.NET文件夹\ORM框架\SQLSugar\自动搭建SqlSugar框架的三层数据库模型\ASP.NET.Core\SqlSugarBuildService\SqlSugarBuildService\obj\Debug\netcoreapp2.0\SqlSugarBuildService.pdb
+F:\ASP.NET文件夹\ORM框架\SQLSugar\自动搭建SqlSugar框架的三层数据库模型\ASP.NET.Core\SqlSugarBuildService\SqlSugarBuildService\obj\Debug\netcoreapp2.0\SqlSugarBuildService.csprojAssemblyReference.cache

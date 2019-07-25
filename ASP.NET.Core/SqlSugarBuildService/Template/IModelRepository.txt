@@ -1,0 +1,14 @@
+﻿using @Model.IBaseRepositoryNamespace;
+using @Model.ModelsNamespace;s;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace @Model.ClassNamespace
+{
+    public interface I@(Model.Name)Repository : IBaseRepository<@Model.Name>
+    {
+    }
+}

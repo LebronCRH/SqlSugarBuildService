@@ -1,0 +1,11 @@
+F:\ASP.NET文件夹\ORM框架\SQLSugar\新建文件夹\SoEasyPlatform-master\Asp.NetCore\SoEasyPlatform\SoEasyPlatform\bin\Debug\netcoreapp2.0\SoEasyPlatform.deps.json
+F:\ASP.NET文件夹\ORM框架\SQLSugar\新建文件夹\SoEasyPlatform-master\Asp.NetCore\SoEasyPlatform\SoEasyPlatform\bin\Debug\netcoreapp2.0\SoEasyPlatform.runtimeconfig.json
+F:\ASP.NET文件夹\ORM框架\SQLSugar\新建文件夹\SoEasyPlatform-master\Asp.NetCore\SoEasyPlatform\SoEasyPlatform\bin\Debug\netcoreapp2.0\SoEasyPlatform.runtimeconfig.dev.json
+F:\ASP.NET文件夹\ORM框架\SQLSugar\新建文件夹\SoEasyPlatform-master\Asp.NetCore\SoEasyPlatform\SoEasyPlatform\bin\Debug\netcoreapp2.0\SoEasyPlatform.dll
+F:\ASP.NET文件夹\ORM框架\SQLSugar\新建文件夹\SoEasyPlatform-master\Asp.NetCore\SoEasyPlatform\SoEasyPlatform\bin\Debug\netcoreapp2.0\SoEasyPlatform.pdb
+F:\ASP.NET文件夹\ORM框架\SQLSugar\新建文件夹\SoEasyPlatform-master\Asp.NetCore\SoEasyPlatform\SoEasyPlatform\obj\Debug\netcoreapp2.0\SoEasyPlatform.csproj.CoreCompileInputs.cache
+F:\ASP.NET文件夹\ORM框架\SQLSugar\新建文件夹\SoEasyPlatform-master\Asp.NetCore\SoEasyPlatform\SoEasyPlatform\obj\Debug\netcoreapp2.0\SoEasyPlatform.AssemblyInfoInputs.cache
+F:\ASP.NET文件夹\ORM框架\SQLSugar\新建文件夹\SoEasyPlatform-master\Asp.NetCore\SoEasyPlatform\SoEasyPlatform\obj\Debug\netcoreapp2.0\SoEasyPlatform.AssemblyInfo.cs
+F:\ASP.NET文件夹\ORM框架\SQLSugar\新建文件夹\SoEasyPlatform-master\Asp.NetCore\SoEasyPlatform\SoEasyPlatform\obj\Debug\netcoreapp2.0\SoEasyPlatform.dll
+F:\ASP.NET文件夹\ORM框架\SQLSugar\新建文件夹\SoEasyPlatform-master\Asp.NetCore\SoEasyPlatform\SoEasyPlatform\obj\Debug\netcoreapp2.0\SoEasyPlatform.pdb
+F:\ASP.NET文件夹\ORM框架\SQLSugar\新建文件夹\SoEasyPlatform-master\Asp.NetCore\SoEasyPlatform\SoEasyPlatform\obj\Debug\netcoreapp2.0\SoEasyPlatform.csprojAssemblyReference.cache
