@@ -1,5 +1,5 @@
 ﻿using @Model.IBaseRepositoryNamespace;
-using @Model.ModelsNamespace;s;
+using @Model.ModelsNamespace;
 using System;
 using System.Collections.Generic;
 using System.Linq;

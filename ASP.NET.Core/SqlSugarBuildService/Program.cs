@@ -134,7 +134,7 @@ namespace SugarCodeGeneration
             var IModelServicesSavePath = Methods.GetSlnPath + "\\" + IModelServicesProjectName + "\\" + IModelServicesPath;//保存的目录
             var IModelServicesTables = db.DbMaintenance.GetTableInfoList().Select(it => it.Name).ToList();
             var IModelServicesClassNamespace = SolutionName + ".IServices";//每一个IModelRepository所在的命名空间
-            CenerationIModelServices(IModelServicesProjectName, IModelServicesPath, IModelServicesSavePath, IModelServicesTables, IModelServicesClassNamespace, IRepositoryBaseClassNamespace, classNamespace);
+            CenerationIModelServices(IModelServicesProjectName, IModelServicesPath, IModelServicesSavePath, IModelServicesTables, IModelServicesClassNamespace, IServicesBaseClassNamespace, classNamespace);
             Print("IModelServices创建成功");
 
             /***生成BaseServices***/

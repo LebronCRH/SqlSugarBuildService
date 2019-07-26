@@ -7007,11 +7007,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\ASP.NET文件夹\\ORM框架\\SQLSugar\\自动搭建SqlSugar框架的三层数据库模型\\ASP.NET.Core\\SqlSugarBuildService\\SqlSugarBuildService\\SqlSugarBuildService.csproj",
+      "projectUniqueName": "F:\\ASP.NET文件夹\\ORM框架\\SQLSugar\\自动搭建SqlSugar框架的三层数据库模型\\ASP.NET.Core\\SqlSugarBuildService\\SqlSugarBuildService.csproj",
       "projectName": "SqlSugarBuildService",
-      "projectPath": "F:\\ASP.NET文件夹\\ORM框架\\SQLSugar\\自动搭建SqlSugar框架的三层数据库模型\\ASP.NET.Core\\SqlSugarBuildService\\SqlSugarBuildService\\SqlSugarBuildService.csproj",
+      "projectPath": "F:\\ASP.NET文件夹\\ORM框架\\SQLSugar\\自动搭建SqlSugar框架的三层数据库模型\\ASP.NET.Core\\SqlSugarBuildService\\SqlSugarBuildService.csproj",
       "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-      "outputPath": "F:\\ASP.NET文件夹\\ORM框架\\SQLSugar\\自动搭建SqlSugar框架的三层数据库模型\\ASP.NET.Core\\SqlSugarBuildService\\SqlSugarBuildService\\obj\\",
+      "outputPath": "F:\\ASP.NET文件夹\\ORM框架\\SQLSugar\\自动搭建SqlSugar框架的三层数据库模型\\ASP.NET.Core\\SqlSugarBuildService\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "E:\\Microsoft\\Xamarin\\NuGet\\",
